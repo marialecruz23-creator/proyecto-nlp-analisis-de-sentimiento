@@ -1,0 +1,4 @@
+,modelo,f1_macro,precision_neg,recall_neg,log_loss
+0,beto,0.761,0.732,0.739,0.598
+1,xlmr,0.745,0.662,0.812,0.589
+2,tfidf_char_35 (campeón S2),0.646,0.546,0.69,0.749

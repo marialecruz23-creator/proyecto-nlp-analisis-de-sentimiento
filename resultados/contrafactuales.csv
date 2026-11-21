@@ -1,0 +1,34 @@
+,modelo,grupo,caso,texto,esperada,prediccion,confianza,cambio_vs_original,correcto
+0,Campeón S2,1,original,Las ventas de la compañía subieron este trimestre,positive,positive,0.5889244183498327,False,True
+1,Campeón S2,1,negación,Las ventas de la compañía no subieron este trimestre,negative,positive,0.5064670279545798,False,False
+2,Campeón S2,2,original,El banco espera mejorar sus resultados este año,positive,positive,0.7355677474031008,False,True
+3,Campeón S2,2,negación,El banco no espera mejorar sus resultados este año,negative,positive,0.6662470570224163,False,False
+4,Campeón S2,3,original,"Los ingresos crecieron, pero el beneficio cayó con fuerza",negative,positive,0.42754944301359815,False,False
+5,Campeón S2,3,contraste invertido,"El beneficio cayó, pero los ingresos crecieron con fuerza",positive,positive,0.4793235155928721,False,True
+6,Campeón S2,4,original,La bolsa cayó con fuerza tras el anuncio,negative,negative,0.4328576485015583,False,True
+7,Campeón S2,4,ortografía,La volsa callo con fuersa tras el anuncio,negative,positive,0.5294258481489658,True,False
+8,Campeón S2,5,original,El Ibex 35 sube un 2 % en la apertura,positive,positive,0.7761216179375473,False,True
+9,Campeón S2,5,abreviatura,Ibex35 +2% apertura,positive,positive,0.49479101557308575,False,True
+10,Campeón S2,6,fuera de dominio,Las nutrias guardan su piedra favorita de por vida,neutral,neutral,0.5354039001699978,False,True
+11,BETO,1,original,Las ventas de la compañía subieron este trimestre,positive,positive,0.9601235389709473,False,True
+12,BETO,1,negación,Las ventas de la compañía no subieron este trimestre,negative,negative,0.5299349427223206,True,True
+13,BETO,2,original,El banco espera mejorar sus resultados este año,positive,positive,0.956599235534668,False,True
+14,BETO,2,negación,El banco no espera mejorar sus resultados este año,negative,negative,0.7400579452514648,True,True
+15,BETO,3,original,"Los ingresos crecieron, pero el beneficio cayó con fuerza",negative,negative,0.9689240455627441,False,True
+16,BETO,3,contraste invertido,"El beneficio cayó, pero los ingresos crecieron con fuerza",positive,positive,0.498189240694046,True,True
+17,BETO,4,original,La bolsa cayó con fuerza tras el anuncio,negative,negative,0.9719107151031494,False,True
+18,BETO,4,ortografía,La volsa callo con fuersa tras el anuncio,negative,neutral,0.8101217150688171,True,False
+19,BETO,5,original,El Ibex 35 sube un 2 % en la apertura,positive,positive,0.9506351351737976,False,True
+20,BETO,5,abreviatura,Ibex35 +2% apertura,positive,neutral,0.91061931848526,True,False
+21,BETO,6,fuera de dominio,Las nutrias guardan su piedra favorita de por vida,neutral,neutral,0.9691011309623718,False,True
+22,XLM-R,1,original,Las ventas de la compañía subieron este trimestre,positive,positive,0.9360920190811157,False,True
+23,XLM-R,1,negación,Las ventas de la compañía no subieron este trimestre,negative,negative,0.9614973068237305,True,True
+24,XLM-R,2,original,El banco espera mejorar sus resultados este año,positive,positive,0.9456959962844849,False,True
+25,XLM-R,2,negación,El banco no espera mejorar sus resultados este año,negative,negative,0.9350335001945496,True,True
+26,XLM-R,3,original,"Los ingresos crecieron, pero el beneficio cayó con fuerza",negative,negative,0.8885798454284668,False,True
+27,XLM-R,3,contraste invertido,"El beneficio cayó, pero los ingresos crecieron con fuerza",positive,positive,0.6413487792015076,True,True
+28,XLM-R,4,original,La bolsa cayó con fuerza tras el anuncio,negative,negative,0.9072074294090271,False,True
+29,XLM-R,4,ortografía,La volsa callo con fuersa tras el anuncio,negative,positive,0.6033695936203003,True,False
+30,XLM-R,5,original,El Ibex 35 sube un 2 % en la apertura,positive,positive,0.9409112930297852,False,True
+31,XLM-R,5,abreviatura,Ibex35 +2% apertura,positive,positive,0.6162189841270447,False,True
+32,XLM-R,6,fuera de dominio,Las nutrias guardan su piedra favorita de por vida,neutral,neutral,0.8044090867042542,False,True

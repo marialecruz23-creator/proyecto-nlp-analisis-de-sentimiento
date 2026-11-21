@@ -1,0 +1,7 @@
+,modelo,semilla,hiperparametros,segundos_entrenamiento,hardware
+0,tfidf_char_35 (campeón S2),42,"char_wb 3-5, min_df=2, sublinear_tf; LogReg max_iter=1500, class_weight=balanced",13.330702414999905,CPU
+1,SimpleRNN,42,"MAX_TOKENS=5000, SEQ_LEN=86, EMBED_DIM=64, 64 unidades, dropout=0.3, Adam lr=0.001 clipnorm=1.0, batch=64, máx 15 épocas, early stopping patience=3, class_weight",21.9,CPU (Sesión 3)
+2,GRU,42,"Igual que SimpleRNN, capa GRU",46.4,CPU (Sesión 3)
+3,LSTM,42,"Igual que SimpleRNN, capa LSTM",40.8,CPU (Sesión 3)
+4,BETO,42,"dccuchile/bert-base-spanish-wwm-cased, max_length=128, lr=2e-5, batch=8, 3 épocas, weight_decay=0.01, warmup 0.1, mejor época por F1 macro",332.4875,Tesla T4
+5,XLM-R,42,"xlm-roberta-base, max_length=128, lr=2e-5, batch=8, 3 épocas, weight_decay=0.01, warmup 0.1, mejor época por F1 macro",507.6204,Tesla T4
