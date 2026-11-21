@@ -2,7 +2,7 @@
 
 Proyecto final de Procesamiento de Lenguaje Natural · Universidad Ean · 2026
 
-**Integrantes:** \[Alexander] · \[Camilo] · \[María Alejandra]
+**Integrantes:** \Alexander · \Camilo · \María Alejandra
 
 ## Pregunta
 
